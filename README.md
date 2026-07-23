@@ -77,7 +77,7 @@ const chinnadurai = {
 |:-----------:|:-----------:|:------------:|
 | Scalable Angular micro-frontends | System Design fundamentals | Test coverage & CI/CD |
 | Node.js REST & real-time APIs | Distributed caching patterns | Performance & Core Web Vitals |
-| Reusable component libraries | Cloud (Azure DevOps) | Clean architecture at scale |
+| Reusable component libraries | Clean architecture at scale |
 
 <!-- ============================ TECH STACK ============================ -->
 <div align="center">
@@ -102,7 +102,6 @@ const chinnadurai = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 </div>

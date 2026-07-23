@@ -122,33 +122,43 @@ const chinnadurai = {
 
 </div>
 
-<!-- Swap OWNER/REPO with your real repositories -->
+<div align="center">
+<em>🚧 Curating my best work — <a href="https://github.com/chinnadurai-su?tab=repositories">browse all repositories →</a></em>
+</div>
+
+<!--
+  TO ENABLE PINNED PROJECT CARDS:
+  1. Replace REPO_NAME_1 / REPO_NAME_2 with the exact names of two of your public repos.
+  2. Delete the "Curating my best work" line above and uncomment this block.
+
 <table>
 <tr>
 <td width="50%">
-  <a href="https://github.com/chinnadurai-su">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chinnadurai-su&repo=REPO_NAME_1&theme=radical&hide_border=true&bg_color=0F172A&title_color=8B5CF6&icon_color=EC4899" alt="Project 1">
+  <a href="https://github.com/chinnadurai-su/REPO_NAME_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chinnadurai-su&repo=REPO_NAME_1&theme=radical&hide_border=true&bg_color=0F172A&title_color=8B5CF6&icon_color=EC4899&cache_seconds=86400" alt="Project 1">
   </a>
 </td>
 <td width="50%">
-  <a href="https://github.com/chinnadurai-su">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chinnadurai-su&repo=REPO_NAME_2&theme=radical&hide_border=true&bg_color=0F172A&title_color=8B5CF6&icon_color=EC4899" alt="Project 2">
+  <a href="https://github.com/chinnadurai-su/REPO_NAME_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chinnadurai-su&repo=REPO_NAME_2&theme=radical&hide_border=true&bg_color=0F172A&title_color=8B5CF6&icon_color=EC4899&cache_seconds=86400" alt="Project 2">
   </a>
 </td>
 </tr>
 </table>
+-->
+
 
 <!-- ============================ GITHUB STATS (live) ============================ -->
 <div align="center">
 
 ### 📈 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=chinnadurai-su&show_icons=true&hide_border=true&count_private=true&theme=radical&bg_color=0F172A&title_color=8B5CF6&icon_color=EC4899&text_color=E2E8F0" height="180" alt="GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api?username=chinnadurai-su&show_icons=true&hide_border=true&count_private=true&theme=radical&bg_color=0F172A&title_color=8B5CF6&icon_color=EC4899&text_color=E2E8F0&cache_seconds=86400" height="180" alt="GitHub stats">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=chinnadurai-su&hide_border=true&background=0F172A&stroke=8B5CF6&ring=EC4899&fire=EC4899&currStreakLabel=38BDF8&sideLabels=E2E8F0&currStreakNum=E2E8F0&dates=94A3B8&sideNums=E2E8F0" height="180" alt="Streak stats">
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinnadurai-su&layout=compact&hide_border=true&theme=radical&bg_color=0F172A&title_color=8B5CF6&text_color=E2E8F0&langs_count=8" height="165" alt="Top languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinnadurai-su&layout=compact&hide_border=true&theme=radical&bg_color=0F172A&title_color=8B5CF6&text_color=E2E8F0&langs_count=8&cache_seconds=86400" height="165" alt="Top languages">
 
 </div>
 
@@ -157,7 +167,13 @@ const chinnadurai = {
 
 ### 🏆 Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=chinnadurai-su&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies">
+<img src="./trophies.svg" width="860" alt="Achievement trophies">
+
+<!-- Prefer LIVE trophies (real achievement grades, but the free instance is often rate-limited)?
+     Replace the line above with:
+<img src="https://github-profile-trophy.vercel.app/?username=chinnadurai-su&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&cache_seconds=86400" alt="Trophies">
+-->
+
 
 </div>
 

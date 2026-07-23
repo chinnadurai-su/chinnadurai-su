@@ -153,12 +153,21 @@ const chinnadurai = {
 
 ### 📈 GitHub Stats
 
+<img src="./stats.svg" width="480" alt="GitHub stats">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chinnadurai-su&hide_border=true&background=0F172A&stroke=8B5CF6&ring=EC4899&fire=EC4899&currStreakLabel=38BDF8&sideLabels=E2E8F0&currStreakNum=E2E8F0&dates=94A3B8&sideNums=E2E8F0" height="195" alt="Streak stats">
+
+<!-- Using LOCAL ./stats.svg so it never breaks. Prefer LIVE stats (real numbers; caches fine on GitHub)?
+     Replace the ./stats.svg line above with:
 <img src="https://github-readme-stats.vercel.app/api?username=chinnadurai-su&show_icons=true&hide_border=true&count_private=true&theme=radical&bg_color=0F172A&title_color=8B5CF6&icon_color=EC4899&text_color=E2E8F0&cache_seconds=86400" height="180" alt="GitHub stats">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chinnadurai-su&hide_border=true&background=0F172A&stroke=8B5CF6&ring=EC4899&fire=EC4899&currStreakLabel=38BDF8&sideLabels=E2E8F0&currStreakNum=E2E8F0&dates=94A3B8&sideNums=E2E8F0" height="180" alt="Streak stats">
+-->
 
+
+<!-- Top Languages is already shown above under "Skill Proficiency" (./langs.svg), so no duplicate here.
+     Want the LIVE top-languages card as well? Uncomment:
 <br>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinnadurai-su&layout=compact&hide_border=true&theme=radical&bg_color=0F172A&title_color=8B5CF6&text_color=E2E8F0&langs_count=8&cache_seconds=86400" height="165" alt="Top languages">
+-->
+
 
 </div>
 

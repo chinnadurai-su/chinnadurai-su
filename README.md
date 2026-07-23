@@ -2,7 +2,7 @@
   ════════════════════════════════════════════════════════════════
    Chinnadurai S U — GitHub Profile README
    Repo name MUST equal your username (chinnadurai-su) to show on profile.
-   All local art lives in /assets. Live cards use trusted 3rd-party services.
+   All local art lives in ./ Live cards use trusted 3rd-party services.
    ════════════════════════════════════════════════════════════════
 -->
 
@@ -10,9 +10,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
-  <source media="(prefers-color-scheme: dark)"  srcset="./assets/banner.svg">
-  <img alt="Chinnadurai S U — Senior Angular & Node.js Full Stack Engineer" src="./assets/banner.svg" width="100%">
+  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg">
+  <source media="(prefers-color-scheme: dark)"  srcset="./banner.svg">
+  <img alt="Chinnadurai S U — Senior Angular & Node.js Full Stack Engineer" src="./banner.svg" width="100%">
 </picture>
 
 <!-- ============================ TYPING HEADLINE ============================ -->
@@ -60,7 +60,7 @@ const chinnadurai = {
 </td>
 <td width="38%" valign="top" align="center">
 
-<img src="./assets/lanyard.svg" width="230" alt="Developer ID lanyard">
+<img src="./lanyard.svg" width="230" alt="Developer ID lanyard">
 
 </td>
 </tr>
@@ -112,7 +112,7 @@ const chinnadurai = {
 
 ### 📊 Skill Proficiency
 
-<img src="./assets/langs.svg" width="500" alt="Animated skill bars">
+<img src="./langs.svg" width="500" alt="Animated skill bars">
 
 </div>
 

@@ -77,7 +77,7 @@ const chinnadurai = {
 |:-----------:|:-----------:|:------------:|
 | Scalable Angular micro-frontends | System Design fundamentals | Test coverage & CI/CD |
 | Node.js REST & real-time APIs | Distributed caching patterns | Performance & Core Web Vitals |
-| Reusable component libraries | Clean architecture at scale |
+| Reusable component libraries |  | Clean architecture at scale |
 
 <!-- ============================ TECH STACK ============================ -->
 <div align="center">
